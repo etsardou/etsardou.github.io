@@ -45,10 +45,10 @@ orcid_username: 0000-0001-9034-4832
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-# about_profile_image: images/profile.jpg
-# about_content: | # this will include new lines to allow paragraphs
-#   ## Digital skills
+about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Dr. Eng. Tsardoulias G. Emmanouil obtained his doctorate and engineering diploma from the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki (AUTH), Greece, in 2013 and 2007 respectively. His research interests are focused in Cyber-Physical Systems, Internet of Things, autonomous Robots, no/low-code tools and platforms, and applied ML. He has worked as a research associate and/or engineer in GRNET, the Informatics and Telematics Institute (ITI) of CERTH and the Aristotle University of Thessaloniki (AUTH), in several EU- and National-funded projects. He currently is the technical manager of the Intelligent Systems and Software Engineering group (ISSEL) and the PANDORA research team, as well as the scientific responsible of the Vroom research team. His work has been published in over 75 journal articles, book chapters, and conference publications.
 
 content:
 
@@ -352,10 +352,131 @@ content:
       DOI: <a href="https://doi.org/10.1016/j.robot.2017.05.00" target="_blank">https://doi.org/10.1016/j.robot.2017.05.00</a>
       - **[J-10]** Thallas, Aristeidis G., Emmanouil G. Tsardoulias, and Loukas Petrou. "Topological based scan Matching–Odometry posterior sampling in RBPF under kinematic model failures." Journal of Intelligent & Robotic Systems 91, no. 3 (2018): 543-568. \\
       DOI: <a href="https://doi.org/10.1007/s10846-017-0730-3 " target="_blank">https://doi.org/10.1007/s10846-017-0730-3 </a>
+      - **[J-11]** Tsardoulias, Emmanouil G., Marios Protopapas, Andreas L. Symeonidis, and Loukas Petrou. "A Comparative Analysis of Pattern Matching Techniques Towards OGM Evaluation." Journal of Intelligent & Robotic Systems 98, no. 3 (2020): 733-758. \\
+      DOI: <a href="https://doi.org/10.1007/s10846-019-01053-7" target="_blank">https://doi.org/10.1007/s10846-019-01053-7</a>
+      - **[J-12]** Tzitzis, Anastasios, Spyros Megalou, Stavroula Siachalou, Tsardoulias G. Emmanouil, Athanasios Kehagias, Traianos V. Yioultsis, and Antonis G. Dimitriou. "Localization of RFID tags by a moving robot, via phase unwrapping and non-linear optimization." IEEE Journal of Radio Frequency Identification 3, no. 4 (2019): 216-226. \\
+      DOI: <a href="https://doi.org/10.1109/jrfid.2019.2936969" target="_blank">https://doi.org/10.1109/jrfid.2019.2936969</a>
+      - **[J-13]** Filotheou, Alexandros, Emmanouil Tsardoulias, Antonis Dimitriou, Andreas Symeonidis, and Loukas Petrou. "Quantitative and qualitative evaluation of ROS-enabled local and global planners in 2D static environments." Journal of Intelligent & Robotic Systems 98, no. 3 (2020): 567-601. \\
+      DOI: <a href="https://doi.org/10.1007/s10846-019-01086-y" target="_blank">https://doi.org/10.1007/s10846-019-01086-y</a>
+      - **[J-14]** Poptsi, Eleni, Emmanouil Tsardoulias, Despina Moraitou, Andreas L. Symeonidis, and Magda Tsolaki. "REMEDES for Alzheimer-R4Alz battery: Design and development of a new tool of cognitive control assessment for the diagnosis of minor and major neurocognitive disorders." Journal of Alzheimer's Disease 72, no. 3 (2019): 783-801. \\
+      DOI: <a href="https://doi.org/10.3233/jad-190798" target="_blank">https://doi.org/10.3233/jad-190798</a>
+      - **[J-15]** Geromichalos, Dimitrios, Martin Azkarate, Emmanouil Tsardoulias, Levin Gerdes, Loukas Petrou, and Carlos Perez Del Pulgar. "SLAM for autonomous planetary rovers with global localization." Journal of Field Robotics 37, no. 5 (2020): 830-847. \\
+      DOI: <a href="https://doi.org/10.1002/rob.21943" target="_blank">https://doi.org/10.1002/rob.21943</a>
+      - **[J-16]** Tzitzis, Anastasios, Spyros Megalou, Stavroula Siachalou, Tsardoulias G. Emmanouil, Alexandros Filotheou, Traianos V. Yioultsis, and Antonis G. Dimitriou. "Trajectory planning of a moving robot empowers 3D localization of RFID tags with a single antenna." IEEE Journal of Radio Frequency Identification 4, no. 4 (2020): 283-299. \\
+      DOI: <a href="https://doi.org/10.1109/jrfid.2020.3000332" target="_blank">https://doi.org/10.1109/jrfid.2020.3000332</a>
+      - **[J-17]** Poptsi, Eleni, Despina Moraitou, Emmanouil Tsardoulias, Andreas L. Symeonidisd, and Magda Tsolaki. "Is the discrimination of subjective cognitive decline from cognitively healthy adulthood and mild cognitive impairment possible? A pilot study utilizing the R4Alz battery." Journal of Alzheimer's Disease 77, no. 2 (2020): 715-732. \\
+      DOI: <a href="https://doi.org/10.3233/jad-200562" target="_blank">https://doi.org/10.3233/jad-200562</a>
+      - **[J-18]** Filotheou, Alexandros, Emmanouil Tsardoulias, Antonis Dimitriou, Andreas Symeonidis, and Loukas Petrou. "Pose selection and feedback methods in tandem combinations of particle filters with scan-matching for 2D mobile robot localisation." Journal of Intelligent & Robotic Systems 100, no. 3 (2020): 925-944. \\
+      DOI: <a href="https://doi.org/10.1007/s10846-020-01253-6" target="_blank">https://doi.org/10.1007/s10846-020-01253-6</a>
+      - **[J-19]** Filotheou, Alexandros, Anastasios Tzitzis, Emmanouil Tsardoulias, Antonis Dimitriou, Andreas Symeonidis, George Sergiadis, and Loukas Petrou. "Passive Global Localisation of Mobile Robot via 2D Fourier-Mellin Invariant Matching." Journal of Intelligent & Robotic Systems 104, no. 2 (2022): 1-31. \\
+      DOI: <a href="https://doi.org/10.1007/s10846-021-01535-7" target="_blank">https://doi.org/10.1007/s10846-021-01535-7</a>
+      - **[J-20]** Panayiotou, Konstantinos, Emmanouil Tsardoulias, Christoforos Zolotas, Andreas L. Symeonidis, and Loukas Petrou. "A Framework for Rapid Robotic Application Development for Citizen Developers." Software 1, no. 1 (2022): 53-79. \\
+      DOI: <a href="https://doi.org/10.3390/software1010004" target="_blank">https://doi.org/10.3390/software1010004</a>
+      - **[J-21]** Antoniadis, Panagiotis, Emmanouil Tsardoulias, and Andreas Symeonidis. "A mechanism for personalized Automatic Speech Recognition for less frequently spoken languages: the Greek case." Multimedia Tools and Applications (2022): 1-18. \\
+      DOI: <a href="https://doi.org/10.1007/s11042-022-12953-6" target="_blank">https://doi.org/10.1007/s11042-022-12953-6</a>
+      - **[J-22]** Panayiotou, Konstantinos, Emmanouil Tsardoulias, and Andreas L. Symeonidis. "Commlib: An easy-to-use communication library for Cyber–Physical Systems." SoftwareX 19 (2022): 101180. \\
+      DOI: <a href="https://doi.org/10.1016/j.softx.2022.101180" target="_blank">https://doi.org/10.1016/j.softx.2022.101180</a>
+      - **[J-23]** Poptsi, Eleni, Despina Moraitou, Emmanouil Tsardoulias, Andreas L. Symeonidis, Vasileios Papaliagkas, and Magdalini Tsolaki. 2023. "R4Alz-Revised: A Tool Able to Strongly Discriminate ‘Subjective Cognitive Decline’ from Healthy Cognition and ‘Minor Neurocognitive Disorder’" Diagnostics 13, no. 3: 338. \\
+      DOI: <a href="https://doi.org/10.3390/diagnostics13030338" target="_blank">https://doi.org/10.3390/diagnostics13030338</a>
+      - **[J-24]** Brouzos, R., Panayiotou, K., Tsardoulias, E. et al. “A Low-Code Approach for Connected Robots”. J Intell Robot Syst 108, 28 (2023). \\
+      DOI: <a href="https://doi.org/10.1007/s10846-023-01861-y" target="_blank">https://doi.org/10.1007/s10846-023-01861-y</a>
 
+      ## Conferences with proceedings
 
+      - **[CP-1]** Psomopoulos, Fotis, Emmanouil Tsardoulias, Alexandros Giokas, Cezary Zielinski, Vincent Prunet, Ilias Trochidis, David Daney et al. "Rapp system architecture." In Assistance and Service Robotics in a Human Environment, IEEE/RSJ International Conference on Intelligent Robots and Systems. 2014.  \\
+      Full paper: <a href="https://hal.inria.fr/hal-01090891/document" target="_blank">https://hal.inria.fr/hal-01090891/document</a>
+      - **[CP-2]** Tsardoulias, Emmanouil G., Cezary Zieliński, Włodzimierz Kasprzak, Sofia Reppou, Andreas L. Symeonidis, Pericles A. Mitkas, and George Karagiannis. "Merging robotics and aal ontologies: The rapp methodology." In Progress in Automation, Robotics and Measuring Techniques, pp. 285-297. Springer, Cham, 2015.  \\
+      DOI: <a href="https://doi.org/10.1007/978-3-319-15847-1_28" target="_blank">https://doi.org/10.1007/978-3-319-15847-1_28</a>
+      - **[CP-3]** Gkiokas, Alexandros, Emmanouil G. Tsardoulias, and Pericles A. Mitkas. "Hive Collective Intelligence for Cloud Robotics: A Hybrid Distributed Robotic Controller Design for Learning and Adaptation." In Progress in Automation, Robotics and Measuring Techniques, pp. 65-78. Springer, Cham, 2015.  \\
+      DOI: <a href="https://doi.org/10.1007/978-3-319-15847-1_7" target="_blank">https://doi.org/10.1007/978-3-319-15847-1_7</a>
+      - **[CP-4]** Tsardoulias, Emmanouil G., Andreas L. Symeonidis, and Pericles A. Mitkas. "An automatic speech detection architecture for social robot oral interaction." In Proceedings of the Audio Mostly 2015 on Interaction With Sound, pp. 1-8. 2015. \\
+      DOI: <a href="https://doi.org/10.1145/2814895.2814931" target="_blank">https://doi.org/10.1145/2814895.2814931</a>
+      - **[CP-5]** Thallas, Aristeidis, Emmanouil Tsardoulias, and Loukas Petrou. "Particle filter—Scan matching SLAM recovery under kinematic model failures." In 2016 24th Mediterranean Conference on Control and Automation (MED), pp. 232-237. IEEE, 2016. \\
+      DOI: <a href="https://doi.org/10.1109/med.2016.7535849" target="_blank">https://doi.org/10.1109/med.2016.7535849</a>
+      - **[CP-6]** Thallas, Aristeidis, Emmanouil Tsardoulias, and Loukas Petrou. "Particle filter—Scan matching hybrid SLAM employing topological information." In 2016 24th Mediterranean Conference on Control and Automation (MED), pp. 226-231. IEEE, 2016. \\
+      DOI: <a href="https://doi.org/10.1109/med.2016.7535844" target="_blank">https://doi.org/10.1109/med.2016.7535844</a>
+      - **[CP-7]** Thallas, Aristeidis G., Konstantinos Panayiotou, Emmanouil Tsardoulias, Andreas L. Symeonidis, Pericles A. Mitkas, and George G. Karagiannis. "Relieving Robots from Their Burdens: The Cloud Agent Concept (Short Paper)." In 2016 5th IEEE International Conference on Cloud Networking (Cloudnet), pp. 188-191. IEEE, 2016. \\
+      DOI: <a href="https://doi.org/10.1109/cloudnet.2016.38" target="_blank">https://doi.org/10.1109/cloudnet.2016.38</a>
+      - **[CP-8]** Panayiotou, Konstantinos L., Sofia E. Reppou, George G. Karagiannis, Emmanouil G. Tsardoulias, Aristeidis G. Thallas, and Andreas L. Symeonidis. "Robotic Applications Towards an Interactive Alerting System for Medical Purposes." In 2017 IEEE 30th International Symposium on Computer-Based Medical Systems (CBMS), pp. 564-569. IEEE, 2017. \\
+      DOI: <a href="https://doi.org/10.1109/cbms.2017.17" target="_blank">https://doi.org/10.1109/cbms.2017.17</a>
+      - **[CP-9]** Mousouliotis, Panagiotis G., Konstantinos L. Panayiotou, Emmanouil G. Tsardoulias, Loukas P. Petrou, and Andreas L. Symeonidis. "Expanding a robot's life: Low power object recognition via FPGA-based DCNN deployment." In 2018 7th International Conference on Modern Circuits and Systems Technologies (MOCAST), pp. 1-4. IEEE, 2018.\\
+      DOI: <a href="https://doi.org/10.1109/mocast.2018.8376612" target="_blank">https://doi.org/10.1109/mocast.2018.8376612</a>
+      - **[CP-10]** Tzitzis, Anastasios, Spyros Megalou, Stavroula Siachalou, Traianos Yioultsis, Athanasios Kehagias, Emmanouil Tsardoulias, Alexandros Filotheou, Andreas Symeonidis, Loukas Petrou, and Antonis G. Dimitriou. "Phase ReLock-localization of RFID tags by a moving robot." In 2019 13th European Conference on Antennas and Propagation (EuCAP), pp. 1-5. IEEE, 2019. \\
+      DOI: <a href="https://ieeexplore.ieee.org/abstract/document/8739423" target="_blank">https://ieeexplore.ieee.org/abstract/document/8739423</a>
+      - **[CP-11]** Megalou, Spyros, Anastasios Tzitzis, Stavroula Siachalou, Traianos Yioultsis, John Sahalos, Emmanouil Tsardoulias, Alexandros Filotheou et al. "Fingerprinting localization of RFID tags with real-time performance-assessment, using a moving robot." In 2019 13th European Conference on Antennas and Propagation (EuCAP), pp. 1-5. IEEE, 2019. \\
+      DOI: <a href="https://ieeexplore.ieee.org/abstract/document/8739486" target="_blank">https://ieeexplore.ieee.org/abstract/document/8739486</a>
+      - **[CP-12]** Tzitzis, Anastasios, Spyros Megalou, Stavroula Siachalou, Emmanouil Tsardoulias, Traianos Yioultsis, and Antonis G. Dimitriou. "3D Localization of RFID Tags with a Single Antenna by a Moving Robot and” Phase ReLock”. In 2019 IEEE International Conference on RFID Technology and Applications (RFID-TA), pp. 273-278. IEEE, 2019. \\
+      DOI: <a href="https://doi.org/10.1109/rfid-ta.2019.8892256" target="_blank">https://doi.org/10.1109/rfid-ta.2019.8892256</a>
+      - **[CP-13]** Siachalou, Stavroula, Spyros Megalou, Anastasios Tzitzis, Emmanouil Tsardoulias, Aggelos Bletsas, John Sahalos, Traianos Yioultsis, and Antonis G. Dimitriou. "Robotic inventorying and localization of rfid tags, exploiting phase-fingerprinting." In 2019 IEEE International Conference on RFID Technology and Applications (RFID-TA), pp. 362-367. IEEE, 2019. \\
+      DOI: <a href="https://doi.org/10.1109/rfid-ta.2019.8892183" target="_blank">https://doi.org/10.1109/rfid-ta.2019.8892183</a>
+      - **[CP-14]** Panayiotou, Konstantinos, Emmanouil Tsardoulias, Christopher Zolotas, Iason Paraskevopoulos, Alexandra Chatzicharistou, Alexandros Sahinis, Stathis Dimitriadis et al. "Ms Pacman and the Robotic Ghost: A Modern Cyber-Physical Remake of the Famous Pacman Game." In 2019 Sixth International Conference on Internet of Things: Systems, Management and Security (IOTSMS), pp. 147-154. IEEE, 2019. \\
+      DOI: <a href="https://doi.org/10.1109/iotsms48152.2019.8939255" target="_blank">https://doi.org/10.1109/iotsms48152.2019.8939255</a>
+      - **[CP-15]** Tzitzis, Anastasios, Alexandros Filotheou, Stavroula Siachalou, Emmanouil Tsardoulias, Spyros Megalou, Aggelos Bletsas, Konstantinos Panayiotou, Andreas Symeonidis, Traianos Yioultsis, and Antonis G. Dimitriou. "Real-time 3D localization of RFID-tagged products by ground robots and drones with commercial off-the-shelf RFID equipment: Challenges and solutions." In 2020 IEEE International Conference on RFID (RFID), pp. 1-8. IEEE, 2020. \\
+      DOI: <a href="https://doi.org/10.1109/rfid49298.2020.9244904" target="_blank">https://doi.org/10.1109/rfid49298.2020.9244904</a>
+      - **[CP-16]** Dimitriou, Antonis, Anastasios Tzitzis, Alexandros Filotheou, Spyros Megalou, Stavroula Siachalou, Aristidis R. Chatzistefanou, Andreana Malama et al. "Autonomous Robots, Drones and Repeaters for Fast, Reliable, Low-Cost RFID Inventorying & Localization." In 2021 6th International Conference on Smart and Sustainable Technologies (SpliTech), pp. 01-06. IEEE, 2021. \\
+      DOI: <a href="https://doi.org/10.23919/splitech52315.2021.9566425" target="_blank">https://doi.org/10.23919/splitech52315.2021.9566425</a>
+      - **[CP-17]** Tsardoulias, E., C. Zolotas, S. Siouli, P. Antoniou, S. Amanatiadis, T. Karanikiotis, E. Chondromatidis, P. Bamidis, G. Karagiannis, and A. Symeonidis. "SCIENCE AND MATHEMATICS EDUCATION VIA REMOTE ROBOTICS DEPLOYMENT-THE TEKTRAIN PARADIGM." In ICERI2021 Proceedings, pp. 8282-8291. IATED, 2021. \\
+      DOI: <a href="https://doi.org/10.21125/iceri.2021.1897" target="_blank">https://doi.org/10.21125/iceri.2021.1897</a>
+      - **[CP-18]** Δημήτριος Καβελίδης Φραντζής, Εμμανουήλ Τσαρδούλιας, Θωμάς Καρανικιώτης, Ελένη Πόπτση, Μάγδα Τσολάκη, Ανδρέας Λ. Συμεωνίδης, “Αναγνώριση Κατηγορίας Νοητικής Έκπτωσης μέσω Χαρακτηριστικών Ομιλίας”, παρουσιάστηκε στο Πανελλήνιο Συνέδριο ΑΚΟΥΣΤΙΚΗ 2022, Θεσσαλονίκη \\
+      Proceedings: <a href="https://conferences.helina.gr/2022/en/proceedings/" target="_blank">https://conferences.helina.gr/2022/en/proceedings/</a>
+      - **[CP-19]** Δημήτριος Φ.Καβελίδης, Εμμανουήλ Τσαρδούλιας, Ελένη Πόπτση, Θωμάς Καρανικιώτης, Μάγδα Τσολάκη, Ανδρέας Συμεωνίδης, “Αναγνώριση Κατηγορίας Νοητικής Έκπτωσης μέσω Χαρακτηριστικών Ομιλίας”, 13ο Πανελλήνιο συνέδριο νόσου Alzheimer (PICAD) & 4o Μεσογειακό συνέδριο νευροεκφυλιστικών νοσημάτων (MeCoND), 9 - 12 Φεβρουαρίου, 2023, Θεσσαλονίκη. \\
+      Proceedings: <a href="https://www.dropbox.com/scl/fi/6x6zycbbw8nkczt6ecan9/_-_CONFERENCE-PROCEEDINGS.pdf?rlkey=3s6uyk714jtr3wkgcayntvzi9&dl=0" target="_blank">Link to proceedings</a>
+      - **[CP-20]** Νικόλαος Αλτάνης, Ελένη Πόπτση, Μάγδα Τσολάκη, Ανδρέας Συμεωνίδης, Εμμανουήλ Τσαρδούλιας, “Σχεδιασμός οικολογικού συστήματος εικονικής πραγματικότητας (3D) προς εκτίμηση σφαιρικών νοητικών ικανοτήτων σε άτομα με ήπια νοητική έκπτωση”, 13ο Πανελλήνιο συνέδριο νόσου Alzheimer (PICAD) & 4o Μεσογειακό συνέδριο νευροεκφυλιστικών νοσημάτων (MeCoND), 9 - 12 Φεβρουαρίου, 2023, Θεσσαλονίκη. \\
+      Proceedings: <a href="https://www.dropbox.com/scl/fi/6x6zycbbw8nkczt6ecan9/_-_CONFERENCE-PROCEEDINGS.pdf?rlkey=3s6uyk714jtr3wkgcayntvzi9&dl=0" target="_blank">Link to proceedings</a>
+      - **[CP-21]** Ελένη Πόπτση, Δέσποινα Μωραΐτου, Εμμανουήλ Τσαρδούλιας, Ανδρέας Συμεωνίδης, Μάγδα Τσολάκη, “Υποκειμενική νοητική εξασθένιση: Φυσικό επακόλουθο του νοητικά υγιούς γήρατος ή προ-στάδιο της ήπιας νοητικής διαταραχής; Διερεύνηση της διακριτικής ικανότητας της αναθεωρημένης έκδοσης της συστοιχίας R4Alz-R”, 13ο Πανελλήνιο συνέδριο νόσου Alzheimer (PICAD) & 4o Μεσογειακό συνέδριο νευροεκφυλιστικών νοσημάτων (MeCoND), 9 - 12 Φεβρουαρίου, 2023, Θεσσαλονίκη. \\
+      Proceedings: <a href="https://www.dropbox.com/scl/fi/6x6zycbbw8nkczt6ecan9/_-_CONFERENCE-PROCEEDINGS.pdf?rlkey=3s6uyk714jtr3wkgcayntvzi9&dl=0" target="_blank">Link to proceedings</a>
+      - **[CP-22]** Euripidis Chondromatidis, Emmanouil Tsardoulias, Konstantinos Panagiotou, and Andreas Symeonidis, “Towards a modular IoT device design and prototyping for the Sports domain”, Presented in Emerging Tech Conference “Edge Intelligence” 2023 \\
 
+      ## Conferences without proceedings
 
+      - **[CwP-1]** Tsardoulias, E. G., A. Iliakopoulou, A.Kargakos, and L. Petrou, “On Global Path Planning for Occupancy Grid Maps“, 22nd International Workshop on Robotics in Alpe-Adria-Danube Region, RAAD2013.
+      - **[CwP-2]** Doxopoulos, Panagiotis, Konstantinos L. Panayiotou, Emmanouil G. Tsardoulias, and Andreas L. Symeonidis. "Creating an extrovert robotic assistant via IoT networking devices." arXiv preprint arXiv:1804.04361 Presented  in ICCR 2017: International Conference on Cloud and Robotics (2018) 
+      Link: <a href="https://arxiv.org/abs/1804.04361" target="_blank">https://arxiv.org/abs/1804.04361</a>
+      - **[CwP-3]** Remmas, Vasilis N., Konstantinos L. Panayiotou, Emmanouil G. Tsardoulias, and Andreas L. Symeonidis. "SRCA-The Scalable Robotic Cloud Agents Architecture." arXiv preprint arXiv:1804.04362 (2018).  \\
+      Link: <a href="https://arxiv.org/abs/1804.04362" target="_blank">https://arxiv.org/abs/1804.04362</a>
+      - **[CwP-4]** Tsardoulias, E. G., K. L. Panayiotou, C. Zolotas, A. Philotheou AL, and L. Petrou Symeonidis. "From classical to cloud robotics: Challenges and potential." (Keynote speech), In 3rd International Workshop on Microsystems, Sindos Campus, ATEI Thessaloniki (2018) \\
+      - **[CwP-5]** Eleni Poptsi, Despoina Moraitou, Tsardoulias Emmanouil, Panayiotou Konstantinos, Symeonidis Andreas,Petrou Loukas and Magda Tsolaki, “Αξιολόγηση του νοητικού ελέγχου στη γήρανση με τη χρήση ηλεκτρονικών εργαλείων μέσω του συστήματος αντανακλαστικών/αντίδρασης REMEDES4Alzheimer“, 11th Panhellenic Conference on Alzheimer's Disease & 3rd Mediterranean Conference on Neurodegenerative Diseases PICAD & MeCoND, Thessaloniki,Greece, (2019) \\
+      - **[CwP-6]** Eleni Poptsi, Despoina Moraitou, Tsardoulias Emmanouil, Panayiotou Konstantinos, Symeonidis Andreas, Petrou Loukas and Magda Tsolaki, “Συστοιχία REMEDES: Ένα νέο ηλεκτρονικό εργαλείο αξιολόγησης ικανοτήτων νοητικού ελέγχου στη γήρανση“, 11th Panhellenic Conference on Alzheimer's Disease & 3rd Mediterranean Conference on Neurodegenerative Diseases PICAD & MeCoND, Thessaloniki, Greece, (2019)
+      - **[CwP-7]** Tsardoulias Emmanouil, Panayiotou Konstantinos,Symeonidis Andreas and Petrou Loukas, “REMEDES: Τεχνικά χαρακτηριστικά και προδιαγραφές συστήματος αποτίμησης κιναισθησίας προς διάγνωση της νόσου Alzheimer“, 11th Panhellenic Conference on Alzheimer's Disease &3rd Mediterranean Conference on Neurodegenerative Diseases PICAD & MeCoND, Thessaloniki,Greece, (2019)
+      - **[CwP-8]** Eleni Poptsi,Despina Moraitou, Emmanouil Tsardoulias, Andreas L. Symeonidis, Magda Tsolaki, “Towards novel tools for discriminating healthy adults from people with neurocognitive disorders: A pilot study utilizing the REMEDES for Alzheimer (R4Alz) battery“, In 2020 Alzheimer's Disease International Conference
+      - **[CwP-9]** Eleni Poptsi,Despina Moraitou, Emmanouil Tsardoulias, Andreas L. Symeonidis, Magda Tsolaki "Είναι εφικτός ο διαχωρισμός του Υγιούς Νοητικά Γήρατος από την Υποκειμενική Νοητική Εξασθένιση; Πιλοτικά αποτελέσματα της καινοτόμου συστοιχίας REMEDES for Alzheimer (R4Alz)", 12th Panhellenic Conference on Alzheimer's Disease & 3rd Mediterranean Conference on Neurodegenerative Diseases PICAD & MeCoND, Thessaloniki,Greece, (2021)
+      - **[CwP-10]** Ελένη Πόπτση, Δέσποινα Μωραΐτου, Εμμανουήλ Τσαρδούλιας, Ανδρέας Συμεωνίδης, Μάγδα Τσολάκη, “Υποκειμενική νοητική εξασθένιση: Κομμάτι της υγιούς γήρανσης ή έναρξη νευροεκφύλισης; Νεότερα δεδομένα της συστοιχίας R4Alz”, 8ο Παγκρήτιο Διεπιστημονικό Συνέδριο Νόσου Alzheimer και Συναφών Διαταραχών και 4ο Πανελλήνιο Συνέδριο στην ενεργό και υγιή γήρανση, Σεπτέμβριος 2022, Εμπορικό και Βιομηχανικό Επιμελητήριο Ηρακλείου
+      - **[CwP-11]** Ελένη Πόπτση, Δέσποινα Μωραΐτου, Εμμανουήλ Τσαρδούλιας, Ανδρέας Συμεωνίδης, Μάγδα Τσολάκη, “Νευροψυχολογική συστοιχία REMEDES for Alzheimer (R4Alz): Παρουσίαση ενός εργαλείου πρώιμης διάγνωσης των νευροεκφυλιστικών νοσημάτων”, 8ο Παγκρήτιο Διεπιστημονικό Συνέδριο Νόσου Alzheimer και Συναφών Διαταραχών και 4ο Πανελλήνιο Συνέδριο στην ενεργό και υγιή γήρανση, Σεπτέμβριος 2022, Εμπορικό και Βιομηχανικό Επιμελητήριο Ηρακλείου
+
+      ## Posters
+
+      - **[P-1]** Emmanouil Tsardoulias, Eleni Poptsi, Dimitrios F. Kavelidis, Thomas Karanikiotis, Magda Tsolaki, Despoina Moraitou, Andreas L. Symeonidis, “Early detection of neurocognitive decline using Cyber Physical Systems and Artificial Intelligence”, presented in the 9th Technology Forum, Thessaloniki (2022) \\
+      Poster: <a href="https://www.dropbox.com/s/emknhbo7cf9xiac/2022-09%20-%20TF_Poster_Alzheimers-Tsardoulias.pdf?dl=0" target="_blank">Link to poster</a>
+      - **[P-2]** Theodoros Papafotiou, Efthymia Amarantidou, Efseveia Nestoropoulou,  Emmanouil Tsardoulias, “Autonomous Driving Vehicle in 1:10 scaled environment”, presented in the 9th Technology Forum, Thessaloniki (2022) \\
+      Poster: <a href="https://www.dropbox.com/s/d599oix2o41dnnq/2022-09%20-%20TF_Poster_VROOM.pdf?dl=0" target="_blank">Link to poster</a>
+      - **[P-3]** Konstantinos Panayiotou, Emmanouil Tsardoulias and Andreas Symeonidis, “Low-code development & verification of Cyber-Physical Systems”, presented in the 9th Technology Forum, Thessaloniki (2022) \\
+      Poster: <a href="https://www.dropbox.com/s/ftqkdjxyyuapffx/2022-09%20-%20TF_Poster_CPS-Panayotou.pdf?dl=0" target="_blank">Link to poster</a>
+      - **[P-4]** Elena Poptsi, Despina Moraitou, Emmanouil Tsardoulias, Andreas L. Symeonidis, Magda Tsolaki, “Can the Remedes for Alzheimer's battery (R4Alz-R) replace the classic neuropsychological tests for the diagnosis of minor neurocognitive disorders? Examining the battery's construct validity”, presented in the 36th Global Conference of Alzheimer's Disease International, Kraków, Poland (2024) \\
+      Poster: <a href="https://www.dropbox.com/scl/fi/h8ej2zi9rugwt9bg20h98/2024-04-ADI-R4alz-validity.pdf?rlkey=qkm1vyq5vevqqygqcuemu0n3k&dl=0" target="_blank">Link to poster</a>
+      - **[P-5]** Nikolaos Altanis, Elena Poptsi, Andreas L. Symeonidis, Emmanouil Tsardoulias, “An ecological virtual house for the assessment of general cognitive deficits and activities of daily living in people with Mild and Major Cognitive Impairment: Design of the battery”, presented in the 36th Global Conference of Alzheimer's Disease International, Kraków, Poland (2024) \\
+      Poster: <a href="https://www.dropbox.com/scl/fi/d1hhme12qjoeyybeoq1sz/2024-04-ADI-Virtual-house-poster.pdf?rlkey=z806dgc3nxbwib1yjkhocrlky&dl=0" target="_blank">Link to poster</a>
+
+      ## Pre-print articles
+
+      - **[PP-1]** Tsardoulias, Emmanouil, Aristeidis Thallas, and Loukas Petrou. "Metric map merging using RFID tags & topological information." arXiv preprint arXiv:1711.06591 (2017). \\
+      Link: <a href="https://arxiv.org/abs/1711.06591" target="_blank">https://arxiv.org/abs/1711.06591</a>
+      - **[PP-2]** Tsardoulias, Emmanouil, and Pericles Mitkas. "Robotic frameworks, architectures and middleware comparison." arXiv preprint arXiv:1711.06842 (2017). \\
+      Link: <a href="https://arxiv.org/abs/1711.06842" target="_blank">https://arxiv.org/abs/1711.06842</a>
+
+  - title: Awards / Distinctions
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - 2023 - 8th place (out of 73 teams) in the Bosch Future Mobility Challenge 2023 along with the Marketing Award (VROOM)
+      - 2022 - 2nd place (out of 55 teams) in the Bosch Future Mobility Challenge 2022 along with the Marketing Award (VROOM)
+      - 2021 - 3rd place (out of 9 teams in the semi-finals) in the Bosch Future Mobility Challenge 2021 (VROOM)
+      - 2017 -  Excellence award from the Aristotle University of Thessaloniki, regarding exemplary distinctions in the past year of the PANDORA team
+      - 2016 -  Excellence award from the Aristotle University of Thessaloniki, regarding exemplary distinctions in the past year of the PANDORA team
+      - 2015 -  2th place in the Autonomy finals, in the RoboCup - RoboRescue, Hefei, China (PANDORA)
+      - 2013 -  2th place in the Autonomy finals, in the RoboCup - RoboRescue, Eindhoven, Netherlands (PANDORA)
+      - 2012 - Excellence award for distinct university students from the Technical Chamber of Greece
+      - 2011 - 10th place (out of 17 teams) in the RoboCup - RoboRescue, Istanbul, Turkey (PANDORA)
+      - 2009 - 9th place (out of 20 teams) in the RoboCup - RoboRescue, Graz, Austria (PANDORA)
+      
 
 # Footer
 footer_show_references: false
