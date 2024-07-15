@@ -314,11 +314,11 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## Metrics (updated 2024-03-13)
+      ## Metrics (updated 2024-07-15)
 
-      - <a href="https://scholar.google.com/citations?user=icsof3YAAAAJ&hl=en" target="_blank">Google Scholar</a>: Citations: **793**, h-index: **17**, i10-index: **23**
-      - <a href="https://www.scopus.com/authid/detail.uri?authorId=55005984400" target="_blank">Scopus</a>: Citations: **430**, h-index: **13**
-      - <a href="https://www.semanticscholar.org/author/E.-Tsardoulias/2068734" target="_blank">Semantic scholar</a>: Citations: **517**, h-index: **13**, i10-index: **23**
+      - <a href="https://scholar.google.com/citations?user=icsof3YAAAAJ&hl=en" target="_blank">Google Scholar</a>: Citations: **842**, h-index: **17**, i10-index: **24**
+      - <a href="https://www.scopus.com/authid/detail.uri?authorId=55005984400" target="_blank">Scopus</a>: Citations: **457**, h-index: **14**
+      - <a href="https://www.semanticscholar.org/author/E.-Tsardoulias/2068734" target="_blank">Semantic scholar</a>: Citations: **543**, h-index: **13**
 
       ## Authored - Edited books
 
