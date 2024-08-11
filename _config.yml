@@ -316,9 +316,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       ## Metrics (updated 2024-07-15)
 
-      - <a href="https://scholar.google.com/citations?user=icsof3YAAAAJ&hl=en" target="_blank">Google Scholar</a>: Citations: **842**, h-index: **17**, i10-index: **24**
-      - <a href="https://www.scopus.com/authid/detail.uri?authorId=55005984400" target="_blank">Scopus</a>: Citations: **457**, h-index: **14**
-      - <a href="https://www.semanticscholar.org/author/E.-Tsardoulias/2068734" target="_blank">Semantic scholar</a>: Citations: **543**, h-index: **13**
+      - <a href="https://scholar.google.com/citations?user=icsof3YAAAAJ&hl=en" target="_blank">Google Scholar</a>: Citations: **853**, h-index: **17**, i10-index: **24**
+      - <a href="https://www.scopus.com/authid/detail.uri?authorId=55005984400" target="_blank">Scopus</a>: Citations: **462**, h-index: **13**
+      - <a href="https://www.semanticscholar.org/author/E.-Tsardoulias/2068734" target="_blank">Semantic scholar</a>: Citations: **551**, h-index: **13**
 
       ## Authored - Edited books
 
@@ -386,6 +386,8 @@ content:
       DOI: <a href="https://doi.org/10.3390/robotics13060083">https://doi.org/10.3390/robotics13060083</a>
       - **[J-27]** Poptsi, Eleni, Despina Moraitou, Emmanouil Tsardoulias, Andreas L. Symeonidis, and Magda Tsolaki. 2024. "Subjective Cognitive Impairment Can Be Detected from the Decline of Complex Cognition: Findings from the Examination of Remedes 4 Alzheimer’s (R4Alz) Structural Validity" Brain Sciences 14, no. 6: 548. \\
       DOI: <a href="https://doi.org/10.3390/brainsci14060548">https://doi.org/10.3390/brainsci14060548</a>
+      - **[J-28]** Malamas, Nikolaos, Konstantinos Panayiotou, Apostolia Karabatea, Emmanouil Tsardoulias, and Andreas L. Symeonidis. 2024. "A Multilayer Architecture towards the Development and Distribution of Multimodal Interface Applications on the Edge" Sensors 24, no. 16: 5199 \\
+      DOI: <a href="https://doi.org/10.3390/s24165199">https://doi.org/10.3390/s24165199</a>
 
       ## Conferences with proceedings
 
