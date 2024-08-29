@@ -193,7 +193,7 @@ content:
             **Technical leader of AI group of PANDORA robotics team**\\
             *Aristotle University of Thessaloniki, Greece*\\
             PANDORA is a robotics team in the School of Electrical and Computer Engineering, AUTH, Thessaloniki, as well as an IEEE branch. Team PANDORA has participated in the international RoboCup - RoboRescue competitions in China (2008-Suzhou, Hefei-2015), Austria (2009-Graz), Turkey (2011-Istanbul) and Netherlands (2013-Eindhoven), achieving the 2nd place in the Autonomy finals twice (2013 & 2015).\\
-            Link: <a href="https://lab.issel.ee.auth.gr/pandora-robotics/" target="_blank">https://lab.issel.ee.auth.gr/pandora-robotics/</a>
+            Link: <a href="https://issel.ee.auth.gr/pandora-robotics/" target="_blank">https://issel.ee.auth.gr/pandora-robotics/</a>
       - layout: left
         caption: 2018-Current
         # sub_title: Thessaloniki, Greece
@@ -209,7 +209,7 @@ content:
             **Technical manager of the REMEDES project**\\
             *Aristotle University of Thessaloniki, Greece*\\
             REMEDES is a multi-device system oriented towards high precision measuring and recording reflexes via visual or/and auditory stimuli. The system is suitable for detecting and quantifying a person’s proprioception/kinesthesia (awareness of the position and movement of the parts of the body). REMEDES applications include: a) training, modeling of athletic performance, tracking personal or group performance over time, and b) diagnosis, rehabilitation or tracking the progress of neurological, neuromotor, psychiatric or ophthalmological conditions.\\
-            Link: <a href="https://lab.issel.ee.auth.gr/remedes/" target="_blank">https://lab.issel.ee.auth.gr/remedes/</a>
+            Link: <a href="https://issel.ee.auth.gr/remedes/" target="_blank">https://issel.ee.auth.gr/remedes/</a>
       - layout: left
         caption: 2018-Current
         # sub_title: Thessaloniki, Greece
@@ -237,7 +237,7 @@ content:
             **Robotics expert in the Nao4All project**\\
             *Aristotle University of Thessaloniki, Greece*\\
             The goal of the Nao4All platform is to apply the MDE methodology on creating applications for the NAO robot. Specifically, Nao4All attempts to: a) Provide to people with no technical background an easy and fast way to correctly design and implement robotic applications, b) Significantly increase the success rate of developing correct robotic applications for NAO robot, c) Allow for easy and fast modification of already created robotic applications created with the current tool, in order for their maintenance to be cheap, in terms of time and money\\
-            Link: <a href="https://lab.issel.ee.auth.gr/the-nao4all-platform/" target="_blank">https://lab.issel.ee.auth.gr/the-nao4all-platform/</a>
+            Link: <a href="https://issel.ee.auth.gr/the-nao4all-platform/" target="_blank">https://issel.ee.auth.gr/the-nao4all-platform/</a>
       - layout: left
         caption: 2019
         # sub_title: Thessaloniki, Greece
@@ -245,7 +245,7 @@ content:
             **Robotics/IoT expert in the RoboPacman project**\\
             *Aristotle University of Thessaloniki, Greece*\\
             Robotic, IoT, and CPS concepts, along with Web-based components and Model-driven Engineering principles, towards implementing a modern remake of the famous Pacman game.\\
-            Link: <a href="https://lab.issel.ee.auth.gr/ms-pacman-and-the-robotic-ghost/" target="_blank">https://lab.issel.ee.auth.gr/ms-pacman-and-the-robotic-ghost/</a>
+            Link: <a href="https://issel.ee.auth.gr/ms-pacman-and-the-robotic-ghost/" target="_blank">https://issel.ee.auth.gr/ms-pacman-and-the-robotic-ghost/</a>
       - layout: left
         caption: 2020
         # sub_title: Thessaloniki, Greece
@@ -268,7 +268,7 @@ content:
             **Technical manager of the NavPin project**\\
             *Aristotle University of Thessaloniki, Greece*\\
             Indoor Navigation & Localization mobile App. The NavPin application offers several unique ways of indoors localization for the user, namely via GPS, via specialized QR Codes and via Cisco’s DNA Spaces, allowing for a real-time location update functionality.\\
-            Link: <a href="https://lab.issel.ee.auth.gr/navpin/" target="_blank">https://lab.issel.ee.auth.gr/navpin/</a>
+            Link: <a href="https://issel.ee.auth.gr/navpin/" target="_blank">https://issel.ee.auth.gr/navpin/</a>
       - layout: left
         caption: 2022
         # sub_title: Thessaloniki, Greece
@@ -276,7 +276,7 @@ content:
             **Technical manager of the Cando project**\\
             *Aristotle University of Thessaloniki, Greece*\\
             Cando aims at providing a solution for the problem of limited participation of citizens in donations, by allowing alternative methods of donating to humanitarian or social-related campaigns. Specifically, Cando includes a software/hardware solution, via which citizens can donate small amounts at specialized stands, quickly and efficiently with their cards or mobile phones.	\\
-            Link: <a href="https://lab.issel.ee.auth.gr/cando/" target="_blank">https://lab.issel.ee.auth.gr/cando/</a>
+            Link: <a href="https://issel.ee.auth.gr/cando/" target="_blank">https://issel.ee.auth.gr/cando/</a>
       - layout: left
         caption: 2022-2023
         # sub_title: Thessaloniki, Greece
@@ -314,11 +314,11 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## Metrics (updated 2024-07-15)
+      ## Metrics (updated 2024-08-29)
 
-      - <a href="https://scholar.google.com/citations?user=icsof3YAAAAJ&hl=en" target="_blank">Google Scholar</a>: Citations: **853**, h-index: **17**, i10-index: **24**
-      - <a href="https://www.scopus.com/authid/detail.uri?authorId=55005984400" target="_blank">Scopus</a>: Citations: **462**, h-index: **13**
-      - <a href="https://www.semanticscholar.org/author/E.-Tsardoulias/2068734" target="_blank">Semantic scholar</a>: Citations: **551**, h-index: **13**
+      - <a href="https://scholar.google.com/citations?user=icsof3YAAAAJ&hl=en" target="_blank">Google Scholar</a>: Citations: **868**, h-index: **17**, i10-index: **24**
+      - <a href="https://www.scopus.com/authid/detail.uri?authorId=55005984400" target="_blank">Scopus</a>: Citations: **464**, h-index: **13**
+      - <a href="https://www.semanticscholar.org/author/E.-Tsardoulias/2068734" target="_blank">Semantic scholar</a>: Citations: **553**, h-index: **13**
 
       ## Authored - Edited books
 
@@ -435,7 +435,7 @@ content:
       Proceedings: <a href="https://www.dropbox.com/scl/fi/6x6zycbbw8nkczt6ecan9/_-_CONFERENCE-PROCEEDINGS.pdf?rlkey=3s6uyk714jtr3wkgcayntvzi9&dl=0" target="_blank">Link to proceedings</a>
       - **[CP-21]** Ελένη Πόπτση, Δέσποινα Μωραΐτου, Εμμανουήλ Τσαρδούλιας, Ανδρέας Συμεωνίδης, Μάγδα Τσολάκη, “Υποκειμενική νοητική εξασθένιση: Φυσικό επακόλουθο του νοητικά υγιούς γήρατος ή προ-στάδιο της ήπιας νοητικής διαταραχής; Διερεύνηση της διακριτικής ικανότητας της αναθεωρημένης έκδοσης της συστοιχίας R4Alz-R”, 13ο Πανελλήνιο συνέδριο νόσου Alzheimer (PICAD) & 4o Μεσογειακό συνέδριο νευροεκφυλιστικών νοσημάτων (MeCoND), 9 - 12 Φεβρουαρίου, 2023, Θεσσαλονίκη. \\
       Proceedings: <a href="https://www.dropbox.com/scl/fi/6x6zycbbw8nkczt6ecan9/_-_CONFERENCE-PROCEEDINGS.pdf?rlkey=3s6uyk714jtr3wkgcayntvzi9&dl=0" target="_blank">Link to proceedings</a>
-      - **[CP-22]** Euripidis Chondromatidis, Emmanouil Tsardoulias, Konstantinos Panagiotou, and Andreas Symeonidis, “Towards a modular IoT device design and prototyping for the Sports domain”, Presented in Emerging Tech Conference “Edge Intelligence” 2023 \\
+      - **[CP-22]** Euripidis Chondromatidis, Emmanouil Tsardoulias, Konstantinos Panagiotou, and Andreas Symeonidis, “Towards a modular IoT device design and prototyping for the Sports domain”, Presented in Emerging Tech Conference “Edge Intelligence” 2023
 
       ## Conferences without proceedings
 
