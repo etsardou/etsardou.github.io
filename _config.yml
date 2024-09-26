@@ -314,11 +314,11 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## Metrics (updated 2024-08-29)
+      ## Metrics (updated 2024-09-26)
 
-      - <a href="https://scholar.google.com/citations?user=icsof3YAAAAJ&hl=en" target="_blank">Google Scholar</a>: Citations: **868**, h-index: **17**, i10-index: **24**
-      - <a href="https://www.scopus.com/authid/detail.uri?authorId=55005984400" target="_blank">Scopus</a>: Citations: **464**, h-index: **13**
-      - <a href="https://www.semanticscholar.org/author/E.-Tsardoulias/2068734" target="_blank">Semantic scholar</a>: Citations: **553**, h-index: **13**
+      - <a href="https://scholar.google.com/citations?user=icsof3YAAAAJ&hl=en" target="_blank">Google Scholar</a>: Citations: **876**, h-index: **17**, i10-index: **24**
+      - <a href="https://www.scopus.com/authid/detail.uri?authorId=55005984400" target="_blank">Scopus</a>: Citations: **478**, h-index: **14**
+      - <a href="https://www.semanticscholar.org/author/E.-Tsardoulias/2068734" target="_blank">Semantic scholar</a>: Citations: **563**, h-index: **13**
 
       ## Authored - Edited books
 
@@ -465,6 +465,8 @@ content:
       Poster: <a href="https://www.dropbox.com/scl/fi/h8ej2zi9rugwt9bg20h98/2024-04-ADI-R4alz-validity.pdf?rlkey=qkm1vyq5vevqqygqcuemu0n3k&dl=0" target="_blank">Link to poster</a>
       - **[P-5]** Nikolaos Altanis, Elena Poptsi, Andreas L. Symeonidis, Emmanouil Tsardoulias, “An ecological virtual house for the assessment of general cognitive deficits and activities of daily living in people with Mild and Major Cognitive Impairment: Design of the battery”, presented in the 36th Global Conference of Alzheimer's Disease International, Kraków, Poland (2024) \\
       Poster: <a href="https://www.dropbox.com/scl/fi/d1hhme12qjoeyybeoq1sz/2024-04-ADI-Virtual-house-poster.pdf?rlkey=z806dgc3nxbwib1yjkhocrlky&dl=0" target="_blank">Link to poster</a>
+      - **[P-6]** Kelesi Elpida, Emmanouil Tsardoulias, Andreas L. Symeonidis, “On-Road Autonomous Vehicle Navigation In A Dynamic Environment Using Deep Reinforcement Learning, Towards Fuel Consumption Optimization”, presented in the 2023 Hi-Drive Summer School, Athens, Greece (2024) \\
+      Poster: <a href="https://www.dropbox.com/scl/fi/g1mw6n2h9v1zkoxxceup7/2024-09-Poster-Hi-Drive.pdf?rlkey=5csc7vho6ngsxoa35ldq26b4h&dl=0" target="_blank">Link to poster</a>
 
       ## Pre-print articles
 
