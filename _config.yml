@@ -314,11 +314,11 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## Metrics (updated 2024-09-26)
+      ## Metrics (updated 2024-12-27)
 
-      - <a href="https://scholar.google.com/citations?user=icsof3YAAAAJ&hl=en" target="_blank">Google Scholar</a>: Citations: **876**, h-index: **17**, i10-index: **24**
-      - <a href="https://www.scopus.com/authid/detail.uri?authorId=55005984400" target="_blank">Scopus</a>: Citations: **478**, h-index: **14**
-      - <a href="https://www.semanticscholar.org/author/E.-Tsardoulias/2068734" target="_blank">Semantic scholar</a>: Citations: **563**, h-index: **13**
+      - <a href="https://scholar.google.com/citations?user=icsof3YAAAAJ&hl=en" target="_blank">Google Scholar</a>: Citations: **913**, h-index: **18**, i10-index: **24**
+      - <a href="https://www.scopus.com/authid/detail.uri?authorId=55005984400" target="_blank">Scopus</a>: Citations: **497**, h-index: **14**
+      - <a href="https://www.semanticscholar.org/author/E.-Tsardoulias/2068734" target="_blank">Semantic scholar</a>: Citations: **581**, h-index: **13**
 
       ## Authored - Edited books
 
@@ -390,6 +390,8 @@ content:
       DOI: <a href="https://doi.org/10.3390/s24165199">https://doi.org/10.3390/s24165199</a>
       - **[J-29]** Georgoudas, Michael, Despina Moraitou, Eleni Poptsi, Emmanouil Tsardoulias, Despina Kesanli, Vasileios Papaliagkas, and Magda Tsolaki. 2024. "The Mixed Role of Sleep and Time of Day in Working Memory Performance of Older Adults with Mild Cognitive Impairment" Healthcare 12, no. 16: 1622. \\
       DOI: <a href="https://doi.org/10.3390/healthcare12161622">https://doi.org/10.3390/healthcare12161622</a>
+      - **[J-30]** Eleni Poptsi, Despina Moraitou, Emmanouil Tsardoulias, Andreas L. Symeonidis, and Magda Tsolaki. 2024. "R4Alz-R: a cutting-edge tool for spotting the very first and subtle signs of aging-related cognitive impairment with high accuracy" GeroScience. \\
+      DOI: <a href="https://doi.org/10.1007/s11357-024-01495-4">https://doi.org/10.1007/s11357-024-01495-4</a>
 
       ## Conferences with proceedings
 
@@ -489,7 +491,6 @@ content:
       - 2012 - Excellence award for distinct university students from the Technical Chamber of Greece
       - 2011 - 10th place (out of 17 teams) in the RoboCup - RoboRescue, Istanbul, Turkey (PANDORA)
       - 2009 - 9th place (out of 20 teams) in the RoboCup - RoboRescue, Graz, Austria (PANDORA)
-      
 
 # Footer
 footer_show_references: false
