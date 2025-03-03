@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Emmanouil Tsardoulias
-title: Researcher on Cyber-Physical Systems, IoT and Robotics
+title: Researcher on Cyber-Physical Systems, IoT, Autonomous Robotics, Low/No code, Cognitive Technology
 email: etsardou[@]gmail[.]com
 # website: www.github.com/sproogen/resume-theme
 
@@ -48,7 +48,7 @@ orcid_username: 0000-0001-9034-4832
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Dr. Eng. Tsardoulias G. Emmanouil obtained his doctorate and engineering diploma from the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki (AUTH), Greece, in 2013 and 2007 respectively. His research interests are focused in Cyber-Physical Systems, Internet of Things, autonomous Robots, no/low-code tools and platforms, and applied ML. He has worked as a research associate and/or engineer in GRNET, the Informatics and Telematics Institute (ITI) of CERTH and the Aristotle University of Thessaloniki (AUTH), in several EU- and National-funded projects. He currently is the technical manager of the Intelligent Systems and Software Engineering group (ISSEL) and the PANDORA research team, as well as the scientific responsible of the Vroom research team. His work has been published in over 75 journal articles, book chapters, and conference publications.
+  Dr. Eng. Tsardoulias G. Emmanouil obtained his doctorate and engineering diploma from the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki (AUTH), Greece, in 2013 and 2007 respectively. His research interests are focused on Cyber-Physical Systems, Internet of Things, autonomous Robots, no/low-code tools and platforms, and applied ML. He has worked as a research associate and/or engineer in GRNET, the Informatics and Telematics Institute (ITI) of CERTH and the Aristotle University of Thessaloniki (AUTH), in several EU- and National-funded projects. He currently is the technical manager of the Intelligent Systems and Software Engineering group (ISSEL) and the PANDORA research team, as well as the scientific responsible for the Vroom research team. His work has been published in over 75 journal articles, book chapters, and conference publications.
 
 content:
 
@@ -84,21 +84,24 @@ content:
     content: | # this will include new lines to allow paragraphs
       ## Programming languages / Frameworks
 
-      - **Expert**: C, Python, HTML, JS, MongoDb
-      - **Proficient**: C++, SQL
-      - **Competent**: Bash, AVR assembly, CSS, PHP
+      - **Expert**: C, C++, Python, JS, MongoDb
+      - **Proficient**: SQL, HTML, CSS
+      - **Competent**: Bash, AVR assembly, PHP
 
       ## Information technology tools
 
-      - **Expert**: ROS (Robot Operating System), RabbitMQ, Commlib, Git/Github, React, React Native
-      - **Proficient**: Gazebo, OpenCV, Carla, Google Colab, Github Actions, OpenAPI
-      - **Competent**: Docker, Angular, Unity
+      - **Expert**: ROS (Robot Operating System), RabbitMQ, Commlib, Git/Github, React
+      - **Proficient**: Gazebo, OpenCV, Carla, Google Colab, Github Actions, OpenAPI, React Native, TextX
+      - **Competent**: Docker, Angular, Unity, Jinja
 
       ## Skills/Methods
 
       - Robot agnostic applications, Cloud robotics, Robotics middleware, SLAM, Robot localization, Path planning, Autonomous robot navigation/ exploration/ coverage/ target selection, Multi-robot collaboration
-      - Genetic algorithms, Neural networks
+      - Machine Learning, Genetic algorithms, Neural networks
       - Driverless cars algorithms
+      - Systems engineering, systems architecture and integration
+      - IoT, RFID, Cyber-Physical Systems, Industry 4.0, Smart Cities, Smart Grids, Smart Homes, Smart Health
+      - Low/No code tools and platforms
 
       ## Others
 
@@ -182,6 +185,22 @@ content:
             *Aristotle University of Thessaloniki, Greece*\\
             ΣΥΤΗΕΣ, in Greek, stands for "System for Supporting the Third Age with Smart Devices" and is a research project that aspires to offer autonomous living for elders, as well as complete health services. The main objective of this project is to develop a low-cost smart assistant device that supports the Greek language, which can be purchased by any elder. This smart assistant will be capable of providing useful services in the form of smart applications (some of which will be installed similarly to smart phones), either automatically or on demand.\\
             Link: <a href="https://sities-project.gr/en/" target="_blank">https://sities-project.gr/en/</a>
+      - layout: left
+        caption: 2022-2026
+        # sub_title: Thessaloniki, Greece
+        description: | # this will include new lines to allow paragraphs
+            **IoT, Low-code expert in the EcoReady project**\\
+            *Aristotle University of Thessaloniki, Greece*\\
+            The ECO-READY project will develop an Observatory as the essential source of information providing real-time assessments of the European food system. The Observatory will be available as an online platform and smartphone app to society, policy makers, the scientific community and the agri-food industry. It will gather information from a network of 10 Living Labs, supported through the third-party funding process, covering all bioclimatic regions in Europe. Through ECO-READY’s early warning system and AI-based decision support tools, the project will be able to address both immediate problems and long-term challenges, while ensuring that society’s interests are reflected in future policy-making and raising awareness of agri-food products with reduced climate impact.\\
+            Link: <a href="https://eco-ready.eu/" target="_blank">https://eco-ready.eu/</a>
+      - layout: left
+        caption: 2024-2028
+        # sub_title: Thessaloniki, Greece
+        description: | # this will include new lines to allow paragraphs
+            **IoT, Low-code expert in the Nostradamus project**\\
+            *Aristotle University of Thessaloniki, Greece*\\
+            Nostradamus will design, develop, and evaluate a scalable and robust platform for the online and real-time harvesting of valuable information derived from different data sources for developing several agricultural applications. The developed platform will handle open and commercial Earth Observation datasets employing an automated pipeline regarding data acquisition, storage, and pre-processing. On top of the platform, Nostradamus will develop open-source-based digital applications for farmers, considering both edge and cloud solutions. Using real-time IoT data collection and analysis, farmers will be provided with actionable insights to optimize their operations and improve their yields, reducing agricultural inputs' utilization, which will boost EU resilience, independence, and ecological ambitions for agriculture.\\
+            Link: <a href="https://nostradamus-project.eu/" target="_blank">https://nostradamus-project.eu/</a>
 
   - title: Research experience (non-funded/internal projects)
     layout: list # Type of content section (list/text)
@@ -281,10 +300,18 @@ content:
         caption: 2022-2023
         # sub_title: Thessaloniki, Greece
         description: | # this will include new lines to allow paragraphs
-            **Robotics/IoT expert of the PoRoLog project**\\
+            **Robotics/IoT expert in the PoRoLog project**\\
             *Aristotle University of Thessaloniki, Greece*\\
             Modern warehouses require modern logistics solutions. PoRoLog aspires to provide a robotics-based solution that can contribute to automate and/or improve day-to-day workload, so that the warehouse improves its efficiency, optimizes storage capacity, and decreases physical work. Specifically, PoRoLog proposes a new reconfigurable and scalable robotic system for pallet and box transfers in existing logistics warehouses and a new open source software for supervision of groups of robots named NOOS-Open\\
             Link: <a href="https://github.com/NoosWare/Noos-Open" target="_blank">https://github.com/NoosWare/Noos-Open</a>
+      - layout: left
+        caption: 2025
+        # sub_title: Thessaloniki, Greece
+        description: | # this will include new lines to allow paragraphs
+            **Technical responsible & IoT/CPS expert in the SocIIoTy project**\\
+            *Aristotle University of Thessaloniki, Greece*\\
+            SocIΙoTy is a virtual competition where participants are invited to create solutions for everyday scenarios in smart environments. The tasks will be programmed on the Locsys low-code platform. Several tasks in different smart environments will be given and applications willbe created through the Locsys platform. The environment simulation and the application deployment is visualized through the platform, and an automatic evaluation mechanism exists, storing the scores in a leaderboard.
+
 
   - title: Other professional experience
     layout: list # Type of content section (list/text)
@@ -314,11 +341,11 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## Metrics (updated 2024-12-27)
+      ## Metrics (updated 2025-03-03)
 
-      - <a href="https://scholar.google.com/citations?user=icsof3YAAAAJ&hl=en" target="_blank">Google Scholar</a>: Citations: **913**, h-index: **18**, i10-index: **24**
-      - <a href="https://www.scopus.com/authid/detail.uri?authorId=55005984400" target="_blank">Scopus</a>: Citations: **497**, h-index: **14**
-      - <a href="https://www.semanticscholar.org/author/E.-Tsardoulias/2068734" target="_blank">Semantic scholar</a>: Citations: **581**, h-index: **13**
+      - <a href="https://scholar.google.com/citations?user=icsof3YAAAAJ&hl=en" target="_blank">Google Scholar</a>: Citations: **943**, h-index: **18**, i10-index: **24**
+      - <a href="https://www.scopus.com/authid/detail.uri?authorId=55005984400" target="_blank">Scopus</a>: Citations: **516**, h-index: **14**
+      - <a href="https://www.semanticscholar.org/author/E.-Tsardoulias/2068734" target="_blank">Semantic scholar</a>: Citations: **594**, h-index: **13**
 
       ## Authored - Edited books
 
@@ -438,7 +465,15 @@ content:
       - **[CP-21]** Ελένη Πόπτση, Δέσποινα Μωραΐτου, Εμμανουήλ Τσαρδούλιας, Ανδρέας Συμεωνίδης, Μάγδα Τσολάκη, “Υποκειμενική νοητική εξασθένιση: Φυσικό επακόλουθο του νοητικά υγιούς γήρατος ή προ-στάδιο της ήπιας νοητικής διαταραχής; Διερεύνηση της διακριτικής ικανότητας της αναθεωρημένης έκδοσης της συστοιχίας R4Alz-R”, 13ο Πανελλήνιο συνέδριο νόσου Alzheimer (PICAD) & 4o Μεσογειακό συνέδριο νευροεκφυλιστικών νοσημάτων (MeCoND), 9 - 12 Φεβρουαρίου, 2023, Θεσσαλονίκη. \\
       Proceedings: <a href="https://www.dropbox.com/scl/fi/6x6zycbbw8nkczt6ecan9/_-_CONFERENCE-PROCEEDINGS.pdf?rlkey=3s6uyk714jtr3wkgcayntvzi9&dl=0" target="_blank">Link to proceedings</a>
       - **[CP-22]** Euripidis Chondromatidis, Emmanouil Tsardoulias, Konstantinos Panagiotou, and Andreas Symeonidis, “Towards a modular IoT device design and prototyping for the Sports domain”, Presented in Emerging Tech Conference “Edge Intelligence” 2023
-
+      - **[CP-23]** Kelesi Elpida, Emmanouil Tsardoulias, and Andreas Symeonidis, “On-Road Autonomous Vehicle Navigation In A Dynamic Environment Using Deep Reinforcement Learning, Towards  Fuel Consumption Optimization”, Presented in 2023 Hi-Drive Summer School \\
+      Presentation: <a href="https://www.hi-drive.eu/app/uploads/2024/10/Autonomous-Vehicle-Navigation-in-a-Dynamic-Environment-Using-Deep-Reinforcement-Learning-Towards-Fuel-Consumption-Optimization%E2%80%8B_Elpida-Kelesi.pdf" target="_blank">Link</a>
+      - **[CP-24]** Aivatzoglou Maria, Elena Poptsi, Andreas L. Symeonidis, Emmanouil Tsardoulias, Moraitou Despoina, Magda Tsolaki, “Πιλοτική εφαρμογή οικολογικού συστήματος εικονικής πραγματικότητας (3D) για την εκτίμηση σφαιρικών νοητικών ικανοτήτων και λειτουργικότητας σε άτομα με ήπιες και μείζονες νοητικές διαταραχές”, 14ο Πανελλήνιο συνέδριο νόσου Alzheimer (PICAD) & 6o Μεσογειακό συνέδριο νευροεκφυλιστικών νοσημάτων (MeCoND), 13 - 16 Φεβρουαρίου, 2025, Θεσσαλονίκη. \\
+      - **[CP-25]** Triantafyllidis Dimitrios, Elena Poptsi, Andreas L. Symeonidis, Emmanouil Tsardoulias, Magda Tsolaki, “Υλοποίηση συστήματος εκτίμησης εσωτερικών χώρων ως προς την φιλικότητά τους σε άτομα με άνοια”, 14ο Πανελλήνιο συνέδριο νόσου Alzheimer (PICAD) & 6o Μεσογειακό συνέδριο νευροεκφυλιστικών νοσημάτων (MeCoND), 13 - 16 Φεβρουαρίου, 2025, Θεσσαλονίκη. \\
+      - **[CP-26]** Kalomitsinis Georgios, Dimitris Nastos, Nikolaos Malamas, Elena Poptsi, Tsolaki Magda, Andreas L. Symeonidis, Emmanouil Tsardoulias, “Αναγνώριση Κατηγορίας Νοητικής Έκπτωσης μέσω Χαρακτηριστικών Κειμένου προερχόμενου από απομαγνητοφώνηση ομιλιάς”, 14ο Πανελλήνιο συνέδριο νόσου Alzheimer (PICAD) & 6o Μεσογειακό συνέδριο νευροεκφυλιστικών νοσημάτων (MeCoND), 13 - 16 Φεβρουαρίου, 2025, Θεσσαλονίκη. \\
+      - **[CP-27]** Olympia Giagkouli, Elena Poptsi, Magda Tsolaki, Andreas L. Symeonidis, Emmanouil Tsardoulias, “Αναγνώριση κατηγορίας νοητικής έκπτωσης με τη χρήση της μπαταρίας R4Alz και τεχνικές μηχανικής μάθησης”, 14ο Πανελλήνιο συνέδριο νόσου Alzheimer (PICAD) & 6o Μεσογειακό συνέδριο νευροεκφυλιστικών νοσημάτων (MeCoND), 13 - 16 Φεβρουαρίου, 2025, Θεσσαλονίκη. \\
+      - **[CP-28]** Efstathia Tsarouchi, Elena Poptsi, Magda Tsolaki, Andreas L. Symeonidis, Emmanouil Tsardoulias, “Πρόβλεψη γνωστικής έκπτωσης με χρήση αποτελεσμάτων νευροψυχολογικής αξιολόγησης και τεχνικών μηχανικής μάθησης”, 14ο Πανελλήνιο συνέδριο νόσου Alzheimer (PICAD) & 6o Μεσογειακό συνέδριο νευροεκφυλιστικών νοσημάτων (MeCoND), 13 - 16 Φεβρουαρίου, 2025, Θεσσαλονίκη. \\
+      - **[CP-29]** Elena Poptsi, Moraitou Despoina, Emmanouil Tsardoulias, Andreas L. Symeonidis, Tsolaki Magda, “R4Alz-R: Ένα εργαλείο αιχμής για τον εντοπισμό των πολύ πρώιμων και ανεπαίσθητων αλλαγών της νοητικής εξασθένησης στο γήρας”, 14ο Πανελλήνιο συνέδριο νόσου Alzheimer (PICAD) & 6o Μεσογειακό συνέδριο νευροεκφυλιστικών νοσημάτων (MeCoND), 13 - 16 Φεβρουαρίου, 2025, Θεσσαλονίκη. \\
+      
       ## Conferences without proceedings
 
       - **[CwP-1]** Tsardoulias, E. G., A. Iliakopoulou, A.Kargakos, and L. Petrou, “On Global Path Planning for Occupancy Grid Maps“, 22nd International Workshop on Robotics in Alpe-Adria-Danube Region, RAAD2013.
