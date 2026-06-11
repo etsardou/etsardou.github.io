@@ -42,7 +42,7 @@ orcid_username: 0000-0001-9034-4832
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "G-SBHN55STBT"
 
 # About Section
 about_title: About Me
