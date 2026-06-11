@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Emmanouil Tsardoulias
-title: Researcher on Cyber-Physical Systems, IoT, Autonomous Robotics, Low/No code, Cognitive Technology
-email: etsardou[@]gmail[.]com
-# website: www.github.com/sproogen/resume-theme
+title: Asst. Prof. of Networks and Unified Digital Communications with the School of Electrical and Computer Engineering at the Aristotle University of Thessaloniki, Greece
+email: etsardou[@]ece[.]auth[.]gr
+website: https://issel.ee.auth.gr/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -22,7 +22,7 @@ github_username: etsardou
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant sadsad
-# linkedin_username: jameswgrant
+linkedin_username: manos-tsardoulias-435a7a24
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -48,7 +48,7 @@ orcid_username: 0000-0001-9034-4832
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Dr. Eng. Tsardoulias G. Emmanouil obtained his doctorate and engineering diploma from the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki (AUTH), Greece, in 2013 and 2007 respectively. His research interests are focused on Cyber-Physical Systems, Internet of Things, autonomous Robots, no/low-code tools and platforms, and applied ML. He has worked as a research associate and/or engineer in GRNET, the Informatics and Telematics Institute (ITI) of CERTH and the Aristotle University of Thessaloniki (AUTH), in several EU- and National-funded projects. He currently is the technical manager of the Intelligent Systems and Software Engineering group (ISSEL) and the PANDORA research team, as well as the scientific responsible for the Vroom research team. His work has been published in over 75 journal articles, book chapters, and conference publications.
+  Dr. Eng. Tsardoulias Emmanouil is an Assistant Professor of Networks and Unified Digital Communications with the School of Electrical and Computer Engineering at the Aristotle University of Thessaloniki, Greece. His research interests are focused on Systems Engineering, Cyber-Physical Systems, Internet of Things, Networking, and No/Low-code tools and platforms. He has worked as a research associate/engineer in GRNET, the Informatics and Telematics Institute (ITI) of CERTH and the Aristotle University of Thessaloniki (AUTH), in several EU- and National-funded projects. He currently is the technical manager of the Intelligent Systems and Software Engineering group (ISSEL), as well as the scientific responsible for the Vroom research team. His work has been published in over 100 journal articles, book chapters, and conference publications.
 
 content:
 
@@ -73,40 +73,6 @@ content:
             Grade: Excellent\\
             Full text: <a href="https://www.didaktorika.gr/eadd/handle/10442/39929" target="_blank">https://www.didaktorika.gr/eadd/handle/10442/39929</a>
 
-  - title: Language skills
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - **Greek**: Mother tongue
-      - **English**: Proficient user (C2) 
-
-  - title: Digital skills
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      ## Programming languages / Frameworks
-
-      - **Expert**: C, C++, Python, JS, MongoDb
-      - **Proficient**: SQL, HTML, CSS
-      - **Competent**: Bash, AVR assembly, PHP
-
-      ## Information technology tools
-
-      - **Expert**: ROS (Robot Operating System), RabbitMQ, Commlib, Git/Github, React
-      - **Proficient**: Gazebo, OpenCV, Carla, Google Colab, Github Actions, OpenAPI, React Native, TextX
-      - **Competent**: Docker, Angular, Unity, Jinja
-
-      ## Skills/Methods
-
-      - Robot agnostic applications, Cloud robotics, Robotics middleware, SLAM, Robot localization, Path planning, Autonomous robot navigation/ exploration/ coverage/ target selection, Multi-robot collaboration
-      - Machine Learning, Genetic algorithms, Neural networks
-      - Driverless cars algorithms
-      - Systems engineering, systems architecture and integration
-      - IoT, Cyber-Physical Systems, Industry 4.0, Smart Cities, Smart Homes, Smart Health
-      - Low/No code tools and platforms
-
-      ## Others
-
-      - Windows, Linux, MacOS, Office, GIMP
-
   - title: Academic experience
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -117,226 +83,14 @@ content:
       - 2016-2020: **Intelligent robot systems** AUTH University, School of Electrical and Computer Engineering,Thessaloniki.
       - 2018-2020: **Structured programming** AUTH University, School of Electrical and Computer Engineering,Thessaloniki.
       - 2023-2024: **Retrieval and analysis of Big Data** AUTH University, School of Journalism and Mass Communications,Thessaloniki.
+      - 2025-Present: **Computer Networks I** AUTH University, School of Electrical and Computer Engineering,Thessaloniki.
 
       ## Postgraduate courses
 
-      - 2015-Present: **Intelligent and autonomous systems** AUTH University, School of Electrical and Computer Engineering, Thessaloniki, part of the Interdepartmental Postgraduate Programme "Advanced Computer and Communication Systems"
+      - 2015-2025: **Intelligent and autonomous systems** AUTH University, School of Electrical and Computer Engineering, Thessaloniki, part of the Interdepartmental Postgraduate Programme "Advanced Computer and Communication Systems"
       - 2019-Present: **Rapid software development techniques** AUTH University, School of Electrical and Computer Engineering, Thessaloniki, part of the Interdepartmental Postgraduate Programme "Advanced Computer and Communication Systems"
-      - 2023-Present: **Estimation theory** AUTH University, School of Electrical and Computer Engineering, Thessaloniki, part of the Interdepartmental Postgraduate Programme "Advanced Computer and Communication Systems"
-
-      ## Other academic experience
-
-      - 2023-2024 (3 cycles): Seminars on **Entry-level computer programming with Python**, AUTH University, Faculty of Engineering. These seminars comprised an introduction to programming and entry-level knowledge of the Python language, each cycle lasted 16 hours and the target group included students from all eight departments of the Faculty of Engineering, AUTH.
-
-  - title: Research experience (funded)
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        caption: 2008-2015
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Robotics researcher in the RAPP Project**\\
-            *CERTH/ITI, Thessaloniki, Greece*\\
-            RAPP was a 3-year research project funded by the European Commission through its FP7 programme. The RAPP Project provides an open-source software platform to support the creation and delivery of robotic applications, which in turn are expected to increase the versatility and utility of service and assistive robots. The emphasis of this project is on applications targeted at elders in danger of social exclusion.
-      - layout: left
-        caption: 2015-2021
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Technical leader of R4A team**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            R4A was a research team focused on delivering enhanced functionality to/with cyber-physical systems. The team is manned by Faculty members and Researchers at the Electrical and Computer Engineering School, Aristotle University of Thessaloniki, Greece, who have been extensively working on efficient and intelligent solutions for robotics, devices and systems. The main novelty of the R4A approach is the design and implementation of a middleware architecture and the respective tools that allow for rapid prototyping of device-agnostic applications. The R4A architecture supports the collaboration of robots, devices and/or “things" (in the IoT concept), as well as with cloud services and components, this way fostering a wide range of applications. The R4A approach has already been used in real problems and has proven efficient towards creating solutions in a fast and reliable manner.
-      - layout: left
-        caption: 2021-Current
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Technical leader of ISSEL team**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            The Intelligent Systems and Software Engineering Labgroup (ISSEL) belongs to the Information Processing Laboratory (IPL) of the Department of Electrical and Computer Engineering at the Aristotle University of Thessaloniki. The main research areas of ISSEL are Software Engineering, Data mining & Machine Learning, Infrastructure, Decentralized Technologies, Cyber-Physical Systems, Robotics, Self-driving cars and Mobile Apps/Sensors.\\
-            Link: <a href="http://issel.ee.auth.gr/" target="_blank">http://issel.ee.auth.gr/</a>
-      - layout: left
-        caption: 2018-2021
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Technical manager of the TekTrain project (EPAnEK 2014-2020)**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            The constant evolution in Information Technology, the Internet of Things, Robotics and technology in general has led to the introduction and utilization of new methods in our everyday lives. The current project proposes a novel architecture on top of which a software framework will be developed, accompanied by smart devices/robots, this way providing the necessary tools and interfaces to make STEM education in modern fields quick and easy.\\
-            Link: <a href="https://www.tektrain.gr/" target="_blank">https://www.tektrain.gr/</a>
-      - layout: left
-        caption: 2018-2021
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Robotics Researcher in the project RELIEF (EPAnEK 2014-2020)**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            This project lies within the RFID (Radio Frequency Identification technology) and Robotics domain. Its objectives are a) to construct novel robotic vehicles, capable of performing continuous identification and localization of products and b) to develop novel low-cost approaches, capable of extending the reading area of passive, UHF RFID systems. The projects' products could be used in logistics, in management of large storage facilities, in retail shops, in libraries, hospitals, airports and in conjunction with sensor networks in precision agriculture.\\
-            Link: <a href="https://relief.web.auth.gr/language/en/home/" target="_blank">https://relief.web.auth.gr/language/en/home/</a>
-      - layout: left
-        caption: 2018-2021
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Cyber-physical-systems Researcher in the project eeRIS (EPAnEK 2014-2020)**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            The eeRIS project aims to provide useful information to electric energy residential consumers with regards to their electric energy consumption. The ultimate goal of the project is to achieve engagement through feedback for the consumers, by offering them a better understanding regarding the nature of their consumption. The project includes a) design and implementation of a low cost, high accuracy metering infrastructure, which will be connected to a central point of the residential electric installation, b) design and implementation of a low cost processing unit that will be able to collect measurement values sampled by the eeRIS metering device, process them and communicate the results to the end user, c) implementation of algorithms for the processing of the electric consumption measurements and d) implementation of the necessary user interface that will bridge the back-end services and the end user.\\
-            Link: <a href="https://eeris.web.auth.gr/en/" target="_blank">https://eeris.web.auth.gr/en/</a>
-      - layout: left
-        caption: 2018-2022
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Technical manager in the project ΣΥΤΗΕΣ (EPAnEK 2014-2020)**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            ΣΥΤΗΕΣ, in Greek, stands for "System for Supporting the Third Age with Smart Devices" and is a research project that aspires to offer autonomous living for elders, as well as complete health services. The main objective of this project is to develop a low-cost smart assistant device that supports the Greek language, which can be purchased by any elder. This smart assistant will be capable of providing useful services in the form of smart applications (some of which will be installed similarly to smart phones), either automatically or on demand.\\
-            Link: <a href="https://sities-project.gr/en/" target="_blank">https://sities-project.gr/en/</a>
-      - layout: left
-        caption: 2022-2026
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **IoT, Low-code expert in the EcoReady project**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            The ECO-READY project will develop an Observatory as the essential source of information providing real-time assessments of the European food system. The Observatory will be available as an online platform and smartphone app to society, policy makers, the scientific community and the agri-food industry. It will gather information from a network of 10 Living Labs, supported through the third-party funding process, covering all bioclimatic regions in Europe. Through ECO-READY’s early warning system and AI-based decision support tools, the project will be able to address both immediate problems and long-term challenges, while ensuring that society’s interests are reflected in future policy-making and raising awareness of agri-food products with reduced climate impact.\\
-            Link: <a href="https://eco-ready.eu/" target="_blank">https://eco-ready.eu/</a>
-      - layout: left
-        caption: 2024-2028
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **IoT, Low-code expert in the Nostradamus project**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            Nostradamus will design, develop, and evaluate a scalable and robust platform for the online and real-time harvesting of valuable information derived from different data sources for developing several agricultural applications. The developed platform will handle open and commercial Earth Observation datasets employing an automated pipeline regarding data acquisition, storage, and pre-processing. On top of the platform, Nostradamus will develop open-source-based digital applications for farmers, considering both edge and cloud solutions. Using real-time IoT data collection and analysis, farmers will be provided with actionable insights to optimize their operations and improve their yields, reducing agricultural inputs' utilization, which will boost EU resilience, independence, and ecological ambitions for agriculture.\\
-            Link: <a href="https://nostradamus-project.eu/" target="_blank">https://nostradamus-project.eu/</a>
-
-  - title: Research experience (non-funded/internal projects)
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        caption: 2008-2015
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Technical leader of AI group of PANDORA robotics team**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            PANDORA is a robotics team in the School of Electrical and Computer Engineering, AUTH, Thessaloniki, as well as an IEEE branch. Team PANDORA has participated in the international RoboCup - RoboRescue competitions in China (2008-Suzhou, Hefei-2015), Austria (2009-Graz), Turkey (2011-Istanbul) and Netherlands (2013-Eindhoven), achieving the 2nd place in the Autonomy finals twice (2013 & 2015).\\
-            Link: <a href="https://issel.ee.auth.gr/pandora-robotics/" target="_blank">https://issel.ee.auth.gr/pandora-robotics/</a>
-      - layout: left
-        caption: 2018-Current
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Scientific responsible / mentor of Vroom research team**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            VROOM is focused on developing autonomous driving solutions for scaled vehicles. The main target of the team is the participation in the Bosch Future Mobility Challenge (BFMC) organized by the Bosch Engineering Center in Cluj Napoca, Romania. Our ultimate aim is the promotion of research on autonomous driving in academia. Vroom has participated three times in BFMC, achieving the 3rd place in 2021 and the 2nd place in 2022, along with the Marketing Award.\\
-            Link: <a href="https://vroom.web.auth.gr/ " target="_blank">https://vroom.web.auth.gr/</a>
-      - layout: left
-        caption: 2018-Current
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Technical manager of the REMEDES project**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            REMEDES is a multi-device system oriented towards high precision measuring and recording reflexes via visual or/and auditory stimuli. The system is suitable for detecting and quantifying a person’s proprioception/kinesthesia (awareness of the position and movement of the parts of the body). REMEDES applications include: a) training, modeling of athletic performance, tracking personal or group performance over time, and b) diagnosis, rehabilitation or tracking the progress of neurological, neuromotor, psychiatric or ophthalmological conditions.\\
-            Link: <a href="https://issel.ee.auth.gr/remedes/" target="_blank">https://issel.ee.auth.gr/remedes/</a>
-      - layout: left
-        caption: 2018-Current
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Technical manager of the R4Alz project**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            The R4Alz (REMEDES for Alzheimer) battery is a neuropsychological tool used for the assessment of cognitive control abilities. The battery comprises three different aspects of cognitive control (working memory, attention control, and executive function).\\
-            Link: <a href="http://r4alz-online.issel.ee.auth.gr/" target="_blank">http://r4alz-online.issel.ee.auth.gr/</a>
-      - layout: left
-        caption: 2019-Current
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Mentoring in the Google Summer of Code program**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            Google Summer of Code is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors. My affiliation is the Open Technologies Alliance - GFOSS and I have mentored two projects:\\
-            
-            - Development of a backend management system for NodeRed instances (2022)\\
-            Link: <a href="https://github.com/eellak/gsoc2022--Nodered-backend-" target="_blank">https://github.com/eellak/gsoc2022--Nodered-backend-</a>
-            - A mechanism for personalized Automatic Speech Recognition for less frequently spoken languages: the Greek case (2020)\\
-            Link: <a href="https://github.com/PanosAntoniadis/personalized_asr" target="_blank">https://github.com/PanosAntoniadis/personalized_asr </a>
-      - layout: left
-        caption: 2019
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Robotics expert in the Nao4All project**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            The goal of the Nao4All platform is to apply the MDE methodology on creating applications for the NAO robot. Specifically, Nao4All attempts to: a) Provide to people with no technical background an easy and fast way to correctly design and implement robotic applications, b) Significantly increase the success rate of developing correct robotic applications for NAO robot, c) Allow for easy and fast modification of already created robotic applications created with the current tool, in order for their maintenance to be cheap, in terms of time and money\\
-            Link: <a href="https://issel.ee.auth.gr/the-nao4all-platform/" target="_blank">https://issel.ee.auth.gr/the-nao4all-platform/</a>
-      - layout: left
-        caption: 2019
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Robotics/IoT expert in the RoboPacman project**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            Robotic, IoT, and CPS concepts, along with Web-based components and Model-driven Engineering principles, towards implementing a modern remake of the famous Pacman game.\\
-            Link: <a href="https://issel.ee.auth.gr/ms-pacman-and-the-robotic-ghost/" target="_blank">https://issel.ee.auth.gr/ms-pacman-and-the-robotic-ghost/</a>
-      - layout: left
-        caption: 2020
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Technical manager of an IoT broker-based remote robot management project**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            The project’s goal is the development of tools which will support the management of a robotic system via graphical interfaces, even when the robot exists in a remote network (not in a LAN).\\
-            Link: <a href="https://codin.issel.ee.auth.gr/" target="_blank">https://codin.issel.ee.auth.gr/</a>
-      - layout: left
-        caption: 2021
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Robotics/IoT expert in the SocIoTy project**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            SocIoTy was a platform via which a virtual contest was held, where the participants were invited to find solutions for day-to-day scenarios, using the Internet of Things(IoT). The programming of the tasks was performed in the low-code platform NodeRed.
-      - layout: left
-        caption: 2021
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Technical manager of the NavPin project**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            Indoor Navigation & Localization mobile App. The NavPin application offers several unique ways of indoors localization for the user, namely via GPS, via specialized QR Codes and via Cisco’s DNA Spaces, allowing for a real-time location update functionality.\\
-            Link: <a href="https://issel.ee.auth.gr/navpin/" target="_blank">https://issel.ee.auth.gr/navpin/</a>
-      - layout: left
-        caption: 2022
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Technical manager of the Cando project**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            Cando aims at providing a solution for the problem of limited participation of citizens in donations, by allowing alternative methods of donating to humanitarian or social-related campaigns. Specifically, Cando includes a software/hardware solution, via which citizens can donate small amounts at specialized stands, quickly and efficiently with their cards or mobile phones.	\\
-            Link: <a href="https://issel.ee.auth.gr/cando/" target="_blank">https://issel.ee.auth.gr/cando/</a>
-      - layout: left
-        caption: 2022-2023
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Robotics/IoT expert in the PoRoLog project**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            Modern warehouses require modern logistics solutions. PoRoLog aspires to provide a robotics-based solution that can contribute to automate and/or improve day-to-day workload, so that the warehouse improves its efficiency, optimizes storage capacity, and decreases physical work. Specifically, PoRoLog proposes a new reconfigurable and scalable robotic system for pallet and box transfers in existing logistics warehouses and a new open source software for supervision of groups of robots named NOOS-Open\\
-            Link: <a href="https://github.com/NoosWare/Noos-Open" target="_blank">https://github.com/NoosWare/Noos-Open</a>
-      - layout: left
-        caption: 2025
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Technical responsible & IoT/CPS expert in the SocIIoTy project**\\
-            *Aristotle University of Thessaloniki, Greece*\\
-            SocIΙoTy is a virtual competition where participants are invited to create solutions for everyday scenarios in smart environments. The tasks will be programmed on the Locsys low-code platform. Several tasks in different smart environments will be given and applications willbe created through the Locsys platform. The environment simulation and the application deployment is visualized through the platform, and an automatic evaluation mechanism exists, storing the scores in a leaderboard.
-
-
-  - title: Other professional experience
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        caption: 2010-2013
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Developer**\\
-            *GRNET - Athens, Greece*\\
-            Developer at the Eudoxus project (http://eudoxus.gr), performed in collaboration with the Ministry of Education, Greece. Participation in I) the implementation of a web application for connecting the universities departments' secretaries in a unified system for manipulation of the books' distribution to university students and II) the implementation of a web application for the on-line payment of the publishing houses, according to their books' distribution in Greece's Universities.
-      - layout: left
-        caption: 2008-2010
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Platform administrator & Developer**\\
-            *AUTH University - Thessaloniki, Greece*\\
-            Administrator and developer of the ΣΕΔΔιΣ project. ΣΕΔΔιΣ was an on-line system enabling the University departments' secretaries to organize the specific of the book distribution, as well as the students to make selection. This tool was utilized in many departments of Aristotle University, before Eudoxus.
-      - layout: left
-        caption: 2007-2009
-        # sub_title: Thessaloniki, Greece
-        description: | # this will include new lines to allow paragraphs
-            **Platform administrator**\\
-            *AUTH University - Thessaloniki, Greece*\\
-            Administrator of the e-thmmy project. E-thmmy is an educational platform assisting students of the School of Electrical and Computer Engineering to get on-line aids for courses, applying for laboratory courses etc.
+      - 2023-2025: **Estimation theory** AUTH University, School of Electrical and Computer Engineering, Thessaloniki, part of the Interdepartmental Postgraduate Programme "Advanced Computer and Communication Systems"
+      - 2025-Present: **Intelligent Robotic Systems** AUTH University, School of Electrical and Computer Engineering, Thessaloniki, part of the Interdepartmental Postgraduate Programme "Aerial Autonomous Systems"
   
   - title: Publications
     layout: text
